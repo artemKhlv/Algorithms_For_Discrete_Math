@@ -1,4 +1,4 @@
-# CourseWork_ADM
+# Algorithms for discrete math -> Course work
 This repository (CourseWork_ADM) is the intellectual property of Artem Khilalov 🪬.
 
 This repository is dedicated to Coursework at NUST MISIS University.
