@@ -1,3 +1,4 @@
+> Artem Khilalov 👨‍💻
 # Algorithms for discrete math -> Course work
 This repository (CourseWork_ADM) is the intellectual property of Artem Khilalov 🪬.
 
